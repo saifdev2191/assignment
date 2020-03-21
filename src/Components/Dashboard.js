@@ -16,7 +16,6 @@ class Dashboard extends React.Component{
             <div className = "parent">
                 <Header />
                 <FeaturedProduct />
-                {/* <Filters /> */}
                 <ProductList/ >
             </div>
         )
